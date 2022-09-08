@@ -1,2 +1,1 @@
-log command.
-my git command
+pas dy ndyshimet reset comman
